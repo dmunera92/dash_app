@@ -137,7 +137,6 @@ PyMySQL==0.9.3
 pyodbc==4.0.25
 pyOpenSSL==18.0.0
 pyparsing==2.3.0
-pyproj==2.4.0
 pyreadline==2.1
 pyrsistent==0.14.11
 PySocks==1.6.8
