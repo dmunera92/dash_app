@@ -163,7 +163,6 @@ s3transfer==0.2.1
 scikit-image==0.14.1
 scikit-learn==0.20.1
 scipy==1.1.0
-seaborn==0.9.0
 Send2Trash==1.5.0
 Shapely==1.6.4.post2
 simplegeneric==0.8.1
