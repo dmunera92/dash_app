@@ -86,7 +86,6 @@ lxml==4.2.5
 MarkupSafe==1.1.0
 Mastodon.py==1.4.6
 mccabe==0.6.1
-menuinst==1.4.14
 mistune==0.8.4
 mkl-fft==1.0.6
 mkl-random==1.0.2
