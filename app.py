@@ -146,7 +146,7 @@ app.layout = html.Div(children=[
                         id="pnl-types",
                         className="six columns card",
                         figure={},
-                        style={'width': 690, 'height' : 470}
+                        style={'width': 500, 'height' : 350}
                     ), 
                     ]
             ),
@@ -157,13 +157,13 @@ app.layout = html.Div(children=[
                         id="daily_btc_price",
                         className="six columns card",
                         figure={},
-                        style={'width': 690, 'height' : 490}
+                        style={'width': 500, 'height' : 350}
                     ),
                      dcc.Graph(
                         id="balance_overtime",
                         className="six columns card",
                         figure={},
-                        style={'width': 690, 'height' : 490}
+                        style={'width': 500, 'height' : 350}
                     )
 
                 ]
